@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align: center;">Hey, I'm Brenden Ehlers 👋</p>
+<h1 align="center">Hey, I'm Brenden Ehlers 👋</h1>
 ***
-<p style="text-align: center;">I'm a passionate full stack software engineer looking for opportunities to apply my trade in innovative ways!</p>
+<h2 align="center">I'm a passionate full stack software engineer looking for opportunities to apply my trade in innovative ways!</h2>
 <br />
-<p style="text-align: center;">My skills include:</p>
-<p style="text-align: center;"><strong>React</strong></p>
-<p style="text-align: center;"><strong>Node</strong></p>
-<p style="text-align: center;"><strong>TypeScript</strong></p>
-<p style="text-align: center;"><strong>Java</strong></p>
-<p style="text-align: center;"><strong>Golang</strong></p>
-<p style="text-align: center;">and</p>
-<p style="text-align: center;"><strong>PostgreSQL</strong></p>
+<h3 align="center">My skills include:</h3>
+<p align="center"><strong>React</strong></p>
+<p align="center"><strong>Node</strong></p>
+<p align="center"><strong>TypeScript</strong></p>
+<p align="center"><strong>Java</strong></p>
+<p align="center"><strong>Golang</strong></p>
+<p align="center">and</p>
+<p align="center"><strong>PostgreSQL</strong></p>
 <br />
-<p style="text-align: center;">I'm open to work opportunties, so feel free to reach me at [brendenehlersjobs@gmail.com](mailto:brendenehlersjobs@gmail.com)</p>
+<p align="center">I'm open to work opportunties, so feel free to reach me at [brendenehlersjobs@gmail.com](mailto:brendenehlersjobs@gmail.com)</p>
 ***
