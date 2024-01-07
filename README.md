@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ### What I Do
 
-- Front End >> React, TypeScript, HTML, CSS
-- Back End >> Java, Maven, Go, Node, Express
-- DevOps >> Docker, Github Actions
-- Infra >> AWS, Vercel, Supabase
+- Front End <strong>>></strong> React, TypeScript, HTML, CSS
+- Back End <strong>>></strong> Java, Maven, Go, Node, Express
+- Database <strong>>></strong> SQL, PostgreSQL
+- DevOps <strong>>></strong> Docker, Github Actions
+- Infra <strong>>></strong> AWS, Vercel, Supabase
