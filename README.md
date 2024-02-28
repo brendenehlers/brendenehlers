@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### What I Do
 
 - Front End <strong>>></strong> React, TypeScript, HTML, CSS
-- Back End <strong>>></strong> Java, Maven, Go, Node, Express
+- Back End <strong>>></strong> Java, Go, Node
 - Database <strong>>></strong> SQL, PostgreSQL
 - DevOps <strong>>></strong> Docker, Github Actions
 - Infra <strong>>></strong> AWS, Vercel, Supabase
