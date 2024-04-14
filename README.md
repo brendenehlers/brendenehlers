@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>I'm open to work opportunties, so feel free to reach me at brendenehlersjobs@gmail.com</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendenehlers/)
-[![Twitter]([https://img.shields.io/twitter/follow/brendenehlers](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white))](https://twitter.com/brendenehlers)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brendenehlers)
 
 ### What I Do
 
