@@ -16,7 +16,7 @@ Shields: https://hendrasob.github.io/badges/
 -->
 
 <h1>Hi, I'm Brenden Ehlers 👋</h1>
-<p>I'm a Full Stack Software Engineer who's always looking for a new challenge or tech to stew on!</p>
+<p>I'm a backend Software Engineer who's always looking for a new challenge or tech to stew on!</p>
 <p>I'm open to work opportunties, so feel free to reach me at brendenehlersjobs@gmail.com</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendenehlers/)
